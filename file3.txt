@@ -1,1 +1,2 @@
 This is under the fix a bug branch
+Trying to figure out how branches work
